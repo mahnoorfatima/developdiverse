@@ -1,0 +1,59 @@
+[
+    {
+        "ad_number": 14,
+        "contents": "Looking for a qualified applicant.",
+        "applicants": 12,
+        "biases": [
+            {
+                "name": "gender",
+                "score": "2"
+            },
+            {
+                "name": "age",
+                "score": "20"
+            },
+            {
+                "name": "ethnicity",
+                "score": "5"
+            }
+        ]
+    },
+    {
+        "ad_number": 15,
+        "contents": "Looking for a high-pressure environment.",
+        "applicants": 12,
+        "biases": [
+            {
+                "name": "gender",
+                "score": "20"
+            },
+            {
+                "name": "age",
+                "score": "25"
+            },
+            {
+                "name": "ethnicity",
+                "score": "50"
+            }
+        ]
+    },
+    {
+        "ad_number": 16,
+        "contents": "Looking for a helpful individual.",
+        "applicants": 12,
+        "biases": [
+            {
+                "name": "gender",
+                "score": "50"
+            },
+            {
+                "name": "age",
+                "score": "1"
+            },
+            {
+                "name": "ethnicity",
+                "score": "80"
+            }
+        ]
+    }
+]
